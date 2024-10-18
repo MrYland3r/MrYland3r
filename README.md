@@ -3,7 +3,7 @@
 </p>
 
 <p>
-  <h4 align="center"><b>"Code && Design"</b></h4>
+  <h4 align="center"><b><em>"Code && Design"</em></b></h4>
 </p>
 
 <p align="center">
