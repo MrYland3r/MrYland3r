@@ -1,5 +1,8 @@
-<img align="center" alt="Header" src="header .png"/>
+#intro
 
+![header](header.png)
+
+##html
 <p>
   <h1 align="center"><b>Hello there... General Ylander! /(^o^)/ </b></h1>
 </p>
