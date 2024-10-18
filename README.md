@@ -1,4 +1,4 @@
-![Header Banner](header.png)
+<img align="center" alt="Header" src="header .png"/>
 
 <p>
   <h1 align="center"><b>Hello there... General Ylander! /(^o^)/ </b></h1>
