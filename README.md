@@ -23,7 +23,7 @@
 </pre>
 
 <hr width="100%">
-<a href="https://app.daily.dev/ylander"><img align= "right" src="https://api.daily.dev/devcards/v2/gPjbLco2kuduQNDlPsPfx.png?type=default&r=36u" width="400" alt="Alexander's Dev Card"/></a>
+<a href="https://app.daily.dev/ylander"><img align= "right" src="https://api.daily.dev/devcards/v2/gPjbLco2kuduQNDlPsPfx.png?type=default&r=lgf" width="400" alt="Alexander's Dev Card"/></a>
 
 <p>
   <h4 align="center"><b><em>T E C H   S T A C K</em></b></h4>
