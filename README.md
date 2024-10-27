@@ -1,13 +1,75 @@
-<img align="center" src="https://cdn.discordapp.com/attachments/424336206860386315/1296826634392965213/header.png?ex=6713b36b&is=671261eb&hm=40e87b2eb49f22d2a6bd30928e1645596c84b39052cd6943d81975bb63b44c83&" alt="Header" />
+<img align="center" src="https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/464774926_2274662829567476_894061963357997700_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=FHVAQxQnCGIQ7kNvgFCvNLW&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=A_SSk0DdOLY9DLd9KbSN-KF&oh=00_AYCpYrajn69XOClFOXVejTr5Run6ESQOBKzrFCXI3Sv5ZA&oe=67243CB1" />
 
 <p>
   <h1 align="center"><b> /(^o^)/ </b></h1>
 </p>
 
 <p>
-  <h4 align="center"><b><em>"Design && Code"</em></b></h4>
+  <h4 align="center"><b><em>I N T R O</em></b></h4>
 </p>
 
+<p>
+  Hello visitor! My name is Alexander Silerio and I am:
+</p>
+
+<body>
+  
+<pre>
+  I. Bilingual! (Spanish / English)
+  II. Developing few personal projects when I get the chance
+  III. Learning more on development and other computer science subjects like ML and AI
+  IV. A huge fan of Star Wars, Steins;Gate, Dr. Pepper, and Megami Tensei
+  V. Currently pursuing a BS in Computer Science @ Illinois Tech, working as a freelancer on the side
+</pre>
+
+<hr width="100%">
+<a href="https://app.daily.dev/ylander"><img align= "right" src="https://api.daily.dev/devcards/v2/gPjbLco2kuduQNDlPsPfx.png?type=default&r=36u" width="400" alt="Alexander's Dev Card"/></a>
+
+<p>
+  <h4 align="center"><b><em>T E C H   S T A C K</em></b></h4>
+
+  <div align="center">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+    <img src= "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+    <img src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    <img src= "https://img.shields.io/badge/python-darkblue.svg?style=for-the-badge&logo=python&logoColor=white">
+    <img src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+    <img src= "https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
+    <img src= "https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white">
+    <img src= "https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white">
+    <img src= "https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
+    <img src= "https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+    <img src= "https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white">
+    <img src= "https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white">
+    <img src= "https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white">
+    <img src= "https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
+    <img src= "https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge">
+    <img src= "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+    <img src= "https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
+    <img src= "https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+    <img src= "https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+  </div>
+</p>
+
+<p>
+  <h4 align="center"><b><em>L E A R N I N G</em></b></h4>
+
+  <div align="center">
+    <img src="https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white">
+    <img src="https://img.shields.io/badge/OCaml-%23E98407.svg?style=for-the-badge&logo=ocaml&logoColor=white">
+    <img src= "https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white">
+    <img src= "https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white">
+    <img src= "https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+    <img src= "https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  </div>
+</p>
+
+
+
+<p>
+  <h4 align="center"><b><em>S O C I A L S</em></b></h4>
+  Thanks for reading! /(^o^)/  Here are some of my public socials, if you'd like to connect:
 
 <p align="center">
 <br>
@@ -15,3 +77,6 @@
 <a href="https://www.linkedin.com/in/alexander-silerio-b1422a209/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 </p>
 <br>
+</body>
+
+
