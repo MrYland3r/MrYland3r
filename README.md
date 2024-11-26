@@ -9,17 +9,17 @@
 </p>
 
 <p>
-  Hello visitor! My name is Alexander Silerio and I am:
+  Hello! I'm Alexander && here is a bit about me:
 </p>
 
 <body>
   
 <pre>
-  I. Bilingual! (Spanish / English)
-  II. Developing few personal projects when I get the chance
-  III. Learning more on development and other computer science subjects like ML and AI
-  IV. A huge fan of Star Wars, Steins;Gate, Dr. Pepper, and Megami Tensei
-  V. Currently pursuing a BS in Computer Science @ Illinois Tech, working as a freelancer on the side
+  I. Grew up in Mexico, so I'm proficient in both Spanish && English
+  II. Currently developing some projects. More to come during 2025 && onward
+  III. Interested in quantum computing (as a passtime for now)
+  IV. A huge fan of Star Wars, Steins;Gate, Dr. Pepper, and Megami Tensei. Love talking a lot about these :)
+  V. Pursuing a BS in Computer Science @ Illinois Tech, working as a GFX freelancer on the side
 </pre>
 
 <hr width="100%">
@@ -36,18 +36,16 @@
     <img src= "https://img.shields.io/badge/python-darkblue.svg?style=for-the-badge&logo=python&logoColor=white">
     <img src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
     <img src= "https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
-    <img src= "https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white">
-    <img src= "https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white">
+    <img src= "https://img.shields.io/badge/illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white">
+    <img src= "https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white">
     <img src= "https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
     <img src= "https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
     <img src= "https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white">
-    <img src= "https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white">
     <img src= "https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white">
     <img src= "https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
     <img src= "https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge">
     <img src= "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
     <img src= "https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
-    <img src= "https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
     <img src= "https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
   </div>
 </p>
@@ -69,7 +67,7 @@
 
 <p>
   <h4 align="center"><b><em>S O C I A L S</em></b></h4>
-  Thanks for reading! /(^o^)/  Here are some of my public socials, if you'd like to connect:
+  Thanks for reading! /(^o^)/  Here are some of my (public) socials, if you'd like to connect:
 
 <p align="center">
 <br>
