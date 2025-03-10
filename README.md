@@ -20,7 +20,7 @@
   I. Grew up in Mexico, so I'm proficient in both Spanish && English
   II. Currently developing some projects. More to come during 2025 && onward
   III. Interested in quantum computing (as a passtime for now)
-  IV. A huge fan of Star Wars, Steins;Gate, Dr. Pepper, and Megami Tensei. Love talking a lot about these :)
+  IV. A huge fan of Star Wars, Steins;Gate, Dr. Pepper, and Megami Tensei. Love talking a lot about these <3
   V. Pursuing a BS in Computer Science @ Illinois Tech, working as a GFX freelancer on the side
 </pre>
 
@@ -45,7 +45,7 @@
     <img src= "https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white">
     <img src= "https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white">
     <img src= "https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
-    <img src= "https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge">
+<!--     <img src= "https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge"> -->
     <img src= "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
     <img src= "https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
     <img src= "https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
