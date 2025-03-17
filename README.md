@@ -25,7 +25,7 @@
 </pre>
 
 <hr width="100%">
-<a align="right" href="https://app.daily.dev/ylander"><img align= "right" src="https://api.daily.dev/devcards/v2/gPjbLco2kuduQNDlPsPfx.png?type=default&r=lgf" width="400" alt="Alexander's Dev Card"/></a>
+<a align="right" href="https://app.daily.dev/ylander"><img align= "right" src="https://api.daily.dev/devcards/v2/gPjbLco2kuduQNDlPsPfx.png?type=default&r=lgf" width="350" alt="Alexander's Dev Card"/></a>
 <p>
   <h4 align="center"><b><em>T E C H   S T A C K</em></b></h4>
 
@@ -75,6 +75,8 @@
 </p>
 <br>
 </body>
+
+<hr width="100%">
 <p>
   <h4 align="center"><b><em>P R O G R E S S</em></b></h4>
 <a align="left" href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/67d8342c187996bfba297e17?variant=dark&roadmaps=computer-science%2Cdevops%2Cfull-stack" alt="roadmap.sh"/></a>
