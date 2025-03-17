@@ -24,7 +24,7 @@
   V. Pursuing a BS in Computer Science @ Illinois Tech, working as a GFX freelancer on the side
 </pre>
 
-<hr width="100%">
+<hr width="50%">
 <a align="right" href="https://app.daily.dev/ylander"><img align= "right" src="https://api.daily.dev/devcards/v2/gPjbLco2kuduQNDlPsPfx.png?type=default&r=lgf" width="400" alt="Alexander's Dev Card"/></a>
 <a align="left" href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/67d8342c187996bfba297e17?variant=dark&roadmaps=computer-science%2Cdevops%2Cfull-stack" alt="roadmap.sh"/></a>
 
