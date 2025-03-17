@@ -26,11 +26,12 @@
 
 <hr width="100%">
 <a href="https://app.daily.dev/ylander"><img align= "right" src="https://api.daily.dev/devcards/v2/gPjbLco2kuduQNDlPsPfx.png?type=default&r=lgf" width="400" alt="Alexander's Dev Card"/></a>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/67d8342c187996bfba297e17?variant=dark&roadmaps=computer-science%2Cdevops%2Cfull-stack" alt="roadmap.sh"/></a>
 
 <p>
   <h4 align="center"><b><em>T E C H   S T A C K</em></b></h4>
 
-  <div align="center">
+  <div align="left">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
     <img src= "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
@@ -55,7 +56,7 @@
 <p>
   <h4 align="center"><b><em>L E A R N I N G</em></b></h4>
 
-  <div align="center">
+  <div align="left">
     <img src="https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white">
     <img src="https://img.shields.io/badge/OCaml-%23E98407.svg?style=for-the-badge&logo=ocaml&logoColor=white">
     <img src= "https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white">
@@ -71,7 +72,7 @@
   <h4 align="center"><b><em>S O C I A L S</em></b></h4>
   Thanks for reading! /(^o^)/  Here are some of my (public) socials, if you'd like to connect:
 
-<p align="center">
+<p align="left">
 <br>
 <a href="https://www.instagram.com/ylander.design/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/alexander-silerio-b1422a209/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
