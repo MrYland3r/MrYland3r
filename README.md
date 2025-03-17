@@ -64,8 +64,6 @@
   </div>
 </p>
 
-<a align="left" href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/67d8342c187996bfba297e17?variant=dark&roadmaps=computer-science%2Cdevops%2Cfull-stack" alt="roadmap.sh"/></a>
-
 <p>
   <h4 align="center"><b><em>S O C I A L S</em></b></h4>
   Thanks for reading! /(^o^)/  Here are some of my (public) socials, if you'd like to connect:
@@ -78,4 +76,4 @@
 <br>
 </body>
 
-
+<a align="left" href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/67d8342c187996bfba297e17?variant=dark&roadmaps=computer-science%2Cdevops%2Cfull-stack" alt="roadmap.sh"/></a>
